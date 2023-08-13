@@ -1,0 +1,12 @@
+{
+  "endDate": "20220801  13:08:00",
+
+  "securities": {
+   
+    "id": 1
+  
+  },
+  "startDate": "20220801  12:23:00",
+
+  "timeFrame": "MIN_1"
+}
